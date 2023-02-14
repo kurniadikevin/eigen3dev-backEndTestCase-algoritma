@@ -23,7 +23,7 @@ const soal4 =(matrix)=>{
     ]
   }
   
-  //penguragan diagonal pertama dengan diagonal kedua
+  //pengurangan diagonal pertama dengan diagonal kedua
   return (diagonalPertama - diagonalKedua);
 }
 

@@ -12,7 +12,7 @@ const soal2 = (sentence)=>{
      //find index of max number of length
     let maxLengthIndex= arrWordLength.indexOf(Math.max(...arrWordLength));
     
-    return arrSentence[ maxLengthIndex]
+    return arrSentence[ maxLengthIndex];
 }
 
 
