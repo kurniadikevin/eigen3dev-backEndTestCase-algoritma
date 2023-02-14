@@ -1,0 +1,14 @@
+{
+  "name": "eigen3dev-backendtestcase-algoritma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "test":  "jest"
+  },
+  "author": "kurniadikevin <kurniadikevin@gmail.com> (http://example.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.2"
+  }
+}
